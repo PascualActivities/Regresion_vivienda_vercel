@@ -3,8 +3,8 @@
 Regresión lineal (Módulo 6) entrenada con descenso de gradiente y desplegada como API con FastAPI.
 
 ## Enlaces
-- App: https://TU-PROYECTO.vercel.app
-- Documentación de la API: https://TU-PROYECTO.vercel.app/docs
+- App: [app](https://regresion-vivienda-vercel.vercel.app/)
+- Documentación de la API: [docs](https://regresion-vivienda-vercel.vercel.app/)
 
 ## Archivos
 | Archivo | Rol |
